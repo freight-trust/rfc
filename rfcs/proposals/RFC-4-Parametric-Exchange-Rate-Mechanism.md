@@ -1,5 +1,5 @@
 
----
+<pre>
 RFC: RFC-4
 title: Parametric Exchange Rate Mechanism (PERM)
 author:  Sam Bacha (@sambacha) sam@freighttrust.com
@@ -8,7 +8,8 @@ status: Draft
 type: Network Upgrade
 category Core, Network
 created: <2020-02-15>
----
+</pre>
+
 ## Token Mechanics 
 [Google Spreadsheet Detailing Costs](https://docs.google.com/spreadsheets/d/1YDjC3ShHhJnl_B55F0MfU01t0MOTN_Y6zMXjfmMcFLU/edit#gid=0)
 Assuming a cost of $1 Per EDI Transaction, Gas Costs must be spent to send and approve the transaction for it to be included into a block. <br>
