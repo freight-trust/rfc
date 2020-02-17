@@ -55,6 +55,14 @@ Else $EDI not valid.
 
 Supply Transaction Criteria can be adjusted by committee approval. 
 
+## Token Mechanics 
+Assuming a cost of $1 Per EDI Transaction, Gas Costs must be spent to send and approve the transaction for it to be included into a block. <br>
+
+Based on the value of `1,136 bytes` on a sample EDI message costing `77,248 gas`. This provides with current network specifications about `135` transactions per block. <br>
+
+In trying to establish a price mechanism to increase token price and utility, an `ERM` or `Exchange Rate Mechanism` is proposed 
+
+
 ## Rationale
 The rationale behind this is to enhance token utility: EDI transaction pricing is already done in the logistics industry on not only a per transactional level it also includes pricing based on bytes per message. 
 
