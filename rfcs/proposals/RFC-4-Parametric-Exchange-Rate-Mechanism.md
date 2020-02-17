@@ -27,6 +27,12 @@ Pegging to defined asset such that volatility is substatinaly reduced for purcha
 
 Such that when EDI transactions are made on behalf of customers, a `special purpose entity` hereafter Freight Clearinghouse LLC, FreightTrust and Clearing Corporation, or a market maker, shall act on behalf of customers through a 3rd party custodial service provider to either purchase the requesite tokens up to $1 USD value of $EDI for processing of transactions to cover gas costs. The difference between $EDI spot price and $USD at time of execution less costs of providing service will remain in $EDI. <br>
 
+## Specifications 
+
+`permTarget: 0.60`
+
+PERM target of EDI Transaction Price will be established at 0.60 $USD (60 cents) whence this RFC is finalized. Network Operations shall have control of changing PERM target based on market and/or economic conditions. 
+
 ## Example 
 1. $EDI is trading at 0.10 $USD (10 cents).
 2. Cost of providing EDI Transaction is 0.60 $USD (60 cents).
