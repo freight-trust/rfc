@@ -42,9 +42,50 @@ Tokens that will be needed for a payout starting at 10 per block at year one: 63
 Assuming full transaction blocks using numbers defined under `EDI` above: 428,358,824.8
 Current existing supply: 88,000,000
 
-New Max Supply: 579,472,727
-Floating Supply: 151,113,902
+[Addendum #1](https://github.com/freight-chain/rfc/issues/2)
+**Proposal to increase holdings by 35%**
+# Token Holder Compensation
+> Addendum to [RFC-2](https://github.com/freight-chain/rfc/blob/master/rfcs/proposals/RFC-2-Network-Realignment.md) 
++ Compensate existing token holders by allowing them to keep tokens and receive equity
+
+# Rider Addendum
++ Compensate existing token holders by distributing a certain rate of new tokens to those not wishing to receive equity compensation. 
+
+# Implementation 
+Airdrop to all holders of ARY / BOL
+
+New Max Supply: 590,517,660
+Floating Supply: 162,158,835
 Transaction Supply: 428,358,825
+
+[Addendum #2](https://github.com/freight-chain/rfc/issues/2)
+**Proposal to formalize Grandfathered Accounts for Masternodes**
+# Grandfathered Token Holders Clause
+> Addendum to [RFC-2](https://github.com/freight-chain/rfc/blob/master/rfcs/proposals/RFC-2-Network-Realignment.md) 
+
+# Addendum
++ Compensate token holders from token generation event to +1 year for staking permissions
+
+# Implementation 
+Adopt existing measures for the token holder staking program with a whitelist of addresses that qualify for staking. 
+
+# Impact
+This will result in grandfathered in accounts leverage in the staking payout mechanism, an impact study will be published no later than 2020/02/17 (February 17th, 2020). 
+
+# Other Considerations
+Scaling past TGE+1year holders, a mathematical function either logarithmic or geometric for diminishing returns should be considered. 
+
+
+[Addendum #3](#)
+**Proposal to formalize staking rewards**
+15% (fifteen percent) of block rewards to be distributed amongst stakers 
+
+Such as
+Year one: 4733542.8
+Year two: 2366771.4
+Year three: 1183385.7
+Year four: 591692.85
+
 
 Transaction Supply Sell Criteria: 1 $EDI = 1 $USDC/$DAI [SupplytxCriteria]
 The Transaction Supply would be sold after $EDI exceeds value of 1 $USDC/DAI.
@@ -55,12 +96,13 @@ Else $EDI not valid.
 
 Supply Transaction Criteria can be adjusted by committee approval. 
 
+
 ## Rationale
 The rationale behind this is to enhance token utility: EDI transaction pricing is already done in the logistics industry on not only a per transactional level it also includes pricing based on bytes per message. 
 
 ## Backwards Compatibility
 <!--All RFCs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The RFC must explain how the author proposes to deal with these incompatibilities. RFC submissions without a sufficient backwards compatibility treatise may be rejected outright.-->
-This would make $BOL in compatible with the network upgrade, hence needing to migrate to a new token called $EDI. 
+This would make $BOL incompatible with the network upgrade, hence needing to migrate to a new token called $EDI. 
 
 ## Test Cases
 <!--Test cases for an implementation are mandatory for RFCs that are affecting consensus changes. Other RFCs can choose to include links to test cases if applicable.-->
@@ -75,7 +117,7 @@ documentation on testing and specifications can be found:
 A new contract will be published, with ABI and source code published in the [ftn token repo](https://github.com/freight-chain/network-token)
 
 ## Security Considerations
-Considerations related to security are by nature mitigated due to the "cost per transaction and per byte" nature of submitting transactions. 
+Considerations related to security are by nature mitigated due to the "cost per transaction and per byte" nature of submitting transactions. Addendum for Staking is beyond scope of this RFC and is a seperate issue to be addressed. 
 
 ## Copyright
 Copyright 2020 - FreightTrust and Clearing Corporation. All Rights Reserved. 
