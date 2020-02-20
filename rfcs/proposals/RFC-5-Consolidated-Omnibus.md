@@ -44,7 +44,7 @@ Network Hard Disk Growth per year at max transaction size:<br>
 in bytes: 486615625005<br>
 in gigabytes: 486.615625<br>
 <br>
-Tokens that will be needed for a payout starting at 10 per block at year one: 63,113,902.12<br>
+Tokens that will be needed for a payout starting at 10 per block at year one: 63,113,902.12 (this includes the airdrop and 35% inflation). Payouts at end of month for services rendered. <br>
 Assuming full transaction blocks using numbers defined under `EDI` above: 428,358,824.8<br>
 Current existing supply: 88,000,000<br>
 
@@ -55,12 +55,14 @@ Current existing supply: 88,000,000<br>
 + Compensate existing token holders by allowing them to keep tokens and receive equity
 <br>
 # Rider Addendum
-+ Compensate existing token holders by distributing a certain rate of new tokens to those not wishing to receive equity compensation. 
++ Compensate existing token holders by distributing a certain rate of new tokens to those not wishing to receive equity compensation. Airdrop the 35% at the same time
 
 <br>
 
 # Implementation 
-Airdrop to all holders of ARY / BOL
+Airdrop to all holders of ARY / BOL<br>
+Airdrop the 35% at the same time<br>
+
 <br>
 New Max Supply: 590,517,660<br>
 Floating Supply: 162,158,835<br>
@@ -108,6 +110,7 @@ Else $EDI not valid.<br>
 Supply Transaction Criteria can be adjusted by committee approval. 
 
 <br>
+
 ## Rationale
 The rationale behind this is to enhance token utility: EDI transaction pricing is already done in the logistics industry on not only a per transactional level it also includes pricing based on bytes per message. 
 <br>
