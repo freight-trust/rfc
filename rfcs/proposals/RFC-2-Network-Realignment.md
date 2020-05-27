@@ -11,7 +11,7 @@ created: <2020-02-17>
 </pre>
 ---
 
->This RFC-5 *supersedes* RFC-2, RFC-3, and RFC-4. This consolidates the various proposals into one *omnibus* proposal vs. voting on 3 seperate RFC's. 
+>This RFC-5 *supersedes* RFC-2, RFC-3, and RFC-4. This consolidates the various proposals into one *omnibus* proposal vs. voting on 3 separate RFC's. 
 
 
 ## Simple Summary
