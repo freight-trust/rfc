@@ -1,9 +1,7 @@
 # Request for Comments or Change (RFCs)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Freight Trust Network Request For Comments or Change (RFCs) describe standards,
@@ -91,12 +89,12 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Manraynor"><img src="https://avatars2.githubusercontent.com/u/65705459?v=4" width="100px;" alt=""/><br /><sub><b>Manraynor</b></sub></a><br /><a href="#content-Manraynor" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/FEEDC0DE"><img src="https://avatars2.githubusercontent.com/u/59111855?v=4" width="100px;" alt=""/><br /><sub><b>feedc0de</b></sub></a><br /><a href="https://github.com/freight-chain/rfc/commits?author=FEEDC0DE" title="Documentation">📖</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the
