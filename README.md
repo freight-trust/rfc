@@ -91,7 +91,7 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Manraynor"><img src="https://avatars2.githubusercontent.com/u/65705459?v=4" width="100px;" alt=""/><br /><sub><b>Manraynor</b></sub></a><br /><a href="#content-Manraynor" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/tomphilly"><img src="https://avatars2.githubusercontent.com/u/59583921?v=4" width="100px;" alt=""/><br /><sub><b>tomphilly</b></sub></a><br /><a href="#content-tomphilly" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Sunsayzxc"><img src="https://avatars3.githubusercontent.com/u/59108542?v=4" width="100px;" alt=""/><br /><sub><b>Sunsayzxc</b></sub></a><br /><a href="https://github.com/freight-chain/rfc/commits?author=Sunsayzxc" title="Code">💻</a> <a href="https://github.com/freight-chain/rfc/commits?author=Sunsayzxc" title="Documentation">📖</a></td>
   </tr>
 </table>
 
